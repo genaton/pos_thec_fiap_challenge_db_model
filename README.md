@@ -18,9 +18,9 @@ Este repositório contém a modelagem de um banco de dados desenvolvida no **MyS
 ## 📁 Arquivos
 
 - `modelo.mwb` — arquivo principal de modelagem (formato Workbench)
-- `modelo.sql` — exportação em SQL para facilitar visualização e execução (em breve)
-- `modelo.png` — imagem ilustrativa do DER (diagrama entidade-relacionamento - em breve)
-- `CHANGELOG.md` — histórico das alterações (em breve)
+- `modelo.sql` — exportação em SQL para facilitar visualização e execução 
+- `modelo.png` — imagem ilustrativa do DER (diagrama entidade-relacionamento)
+- `CHANGELOG.md` — histórico das alterações 
 
 ---
 
